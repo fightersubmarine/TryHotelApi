@@ -2,10 +2,10 @@
     "id": 80899,
     "name": "Americana Inn",
     "address": "69 West 38th Street",
-    "stars": 2.0,
-    "distance": 99.9,
+    "stars": 2.8,
+    "distance": 45.6,
     "image": "3.jpg",
-    "suites_availability": "5:8:32:54",
+    "suites_availability": "1,5,10,15,20",
     "lat": 40.75211500000000,
     "lon": -73.98545100000000
 }
