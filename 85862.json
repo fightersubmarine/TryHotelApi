@@ -2,10 +2,10 @@
     "id": 85862,
     "name": "Dream",
     "address": "210 W. 55 STREET, NEW YORK NY 10019, UNITED STATES",
-    "stars": 4.0,
-    "distance": 554.4,
+    "stars": 4.5,
+    "distance": 75.8,
     "image": "a7.jpg",
-    "suites_availability": "42:33:22",
+    "suites_availability": "5,10,15,20,25",
     "lat": 40.76438100000000,
     "lon": -73.98169700000000
 }
