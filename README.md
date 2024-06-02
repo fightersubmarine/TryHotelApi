@@ -75,7 +75,3 @@ fetchHotels { hotels in
 }
 ```
 
-## You can find a more detailed and visual way of working with the API in my project on swift :octocat:
-
-🔹
-[TryHotelApp](https://github.com/fightersubmarine/TryHotelApp)
