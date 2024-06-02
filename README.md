@@ -4,6 +4,11 @@ Hello everyone! 👋
 
 This is a small API for practicing network operations in your application, providing information about hotels.
 
+You can find a more detailed and visual way of working with the API in my project on ```Swift``` :octocat:
+ 
+🔹 [TryHotelApp](https://github.com/fightersubmarine/TryHotelApp)
+
+
 ## Features
 
 🔹 **List of Hotels**:
@@ -69,3 +74,8 @@ fetchHotels { hotels in
     }
 }
 ```
+
+## You can find a more detailed and visual way of working with the API in my project on swift :octocat:
+
+🔹
+[TryHotelApp](https://github.com/fightersubmarine/TryHotelApp)
